@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/johnaman/static/css/main.0b8a852e.css",
+    "main.js": "/johnaman/static/js/main.2ae43858.js",
+    "static/media/profile.png": "/johnaman/static/media/profile.b7d8b9cfa9705bd1656e.png",
+    "static/media/ssm.jpg": "/johnaman/static/media/ssm.db1d5a9c43197f28369a.jpg",
+    "static/media/hrms.jpg": "/johnaman/static/media/hrms.bd54c389ccf2c173b764.jpg",
+    "static/media/react.png": "/johnaman/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/johnaman/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/johnaman/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/johnaman/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/johnaman/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/johnaman/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/php.png": "/johnaman/static/media/php.2f40588f4db7c42683ee.png",
+    "static/media/javascript.png": "/johnaman/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/johnaman/index.html",
+    "main.0b8a852e.css.map": "/johnaman/static/css/main.0b8a852e.css.map",
+    "main.2ae43858.js.map": "/johnaman/static/js/main.2ae43858.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b8a852e.css",
+    "static/js/main.2ae43858.js"
+  ]
+}
